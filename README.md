@@ -1,3 +1,4 @@
+[![Go Reference](https://pkg.go.dev/badge/github.com/asciimoth/licensedb.svg)](https://pkg.go.dev/github.com/asciimoth/licensedb)
 # licensedb
 Embeddable database of [SPDX licenses](https://github.com/spdx/license-list-data) as a go library
 
