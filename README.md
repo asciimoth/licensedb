@@ -8,9 +8,7 @@ package main
 import "github.com/asciimoth/licensedb"
 
 func main() {
-	archive := licensedb.Load()
-	fmt.Println(archive.List())
-	fmt.Println(archive.Get("GPL-3.0-only"))
+	fmt.Println(licensedb.GetFiles("MIT"))
 }
 ```
 
